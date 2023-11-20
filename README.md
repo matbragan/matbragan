@@ -3,7 +3,7 @@
 
 - :two_hearts: Passionate about data engineer solutions.
 - :deciduous_tree: Working as an Analytics Engineer and doing personal projects as a Data Engineer.
-- :key: Studying advanced Python, advanced Spark and Data Lakehouse architecture.
+- :key: Studying advanced Python and Spark, Golang and Data Lakehouse architecture.
 - :mailbox: Contact me matheus.bs.oliveira@gmail.com & <a href='https://www.linkedin.com/in/matheus-bragan%C3%A7a-300145166/'>Linkedin</a>.
 
 <br>
