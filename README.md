@@ -1,10 +1,9 @@
-### Hi there 👋
-#### Matheus here, welcome to my GitHub
+### Hey, I'm Matheus! 👋
 
-- :two_hearts: Passionate about data engineer solutions.
-- :deciduous_tree: Working as an Analytics Engineer and doing personal projects as a Data Engineer.
-- :key: Studying advanced Python and Spark, Golang and Data Lakehouse architecture.
-- :mailbox: Contact me matheus.bs.oliveira@gmail.com & <a href='https://www.linkedin.com/in/matheus-bragan%C3%A7a-300145166/'>Linkedin</a>.
+- :technologist: Working as an Analytics Engineer
+- :two_hearts: In love with Python, Spark, Go and JavaScript
+- :seedling: Learning more about Cloud Architecture, Data Lakehouse Architecture and Data/Analytics Engineer
+- :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/matheus-bragança-300145166)
 
 <br>
 
@@ -26,5 +25,3 @@
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
 </div> 
-
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bragan%C3%A7a-300145166/) -->
