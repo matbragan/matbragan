@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus! 👋
 
-- :technologist: Working as an Analytics Engineer
+- :technologist: Working with Analytics Engineering
 - :two_hearts: In love with Python, Spark, Go and JavaScript
 - :seedling: Learning more about Cloud Architecture, Data Lakehouse Architecture and Data/Analytics Engineer
 - :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/matheus-bragança-300145166)
