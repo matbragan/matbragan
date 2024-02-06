@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus! 👋
 
-In love with Python, Spark, Go and JavaScript. I'm currently using my expertise as an Analytics Engineer at [will bank](https://github.com/will-bank?view_as=public) and Data Engineer/DBA at [Chase](https://github.com/chase-team)
+In love with Python, Spark, Go and JavaScript. I'm currently using my expertise as an Analytics Engineer at [will bank](https://github.com/will-bank?view_as=public) and Data Engineer/DBA at [Chase](https://github.com/chase-team).
 
 <br>
 
