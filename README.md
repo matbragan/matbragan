@@ -23,6 +23,7 @@ In love with Python, Spark, Go and JavaScript. I'm currently using my expertise 
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">&nbsp;&nbsp;
   <img alt="dbt" height="26" width="26" src="static/dbt.png">&nbsp;&nbsp;
+  <img alt="Terraform" height="33" width="33" src="static/terraform.png">
   <img alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
