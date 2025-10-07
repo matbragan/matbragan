@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus! 👋
 
-In love with Python, Spark, Go and JavaScript. I'm currently using my expertise as an Analytics Engineer at [Nubank](https://github.com/nubank?view_as=public) and Data Engineer/DBA at [chaseIO](https://github.com/chase-team).
+In love with Python, Spark, Go and JavaScript. I'm currently using my expertise as an Analytics Engineer at [Nubank](https://github.com/nubank?view_as=public) and Data Engineer/DBA at [chaseIO](https://github.com/chase-team?view_as=public).
 
 <br>
 
