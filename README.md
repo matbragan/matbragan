@@ -21,7 +21,7 @@ In love with Python, Spark, Go and JavaScript. I'm currently using my expertise 
   <img alt="PostgreSQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;
   <img alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img alt="Delta" height="30" width="26" src="static/delta.png">&nbsp;&nbsp;
+  <img alt="Delta" height="31" width="24" src="static/delta.png">&nbsp;&nbsp;
   <img alt="AWS" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;
   <img alt="Docker" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">&nbsp;
   <img alt="Terraform" height="31" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">&nbsp;
