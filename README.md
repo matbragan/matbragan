@@ -14,16 +14,17 @@ In love with Python, Spark, Go and JavaScript. I'm currently using my expertise 
 
 <div align="center">
   <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="Spark" height="28" width="45" src="static/spark.png">&nbsp;&nbsp;
-  <img alt="Delta" height="28" width="28" src="static/delta.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Airflow" height="26" width="26" src="static/airflow.png">&nbsp;&nbsp;
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">&nbsp;&nbsp;
+  <img alt="Scala" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
+  <img alt="Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">&nbsp;
+  <img alt="Airflow" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">&nbsp;&nbsp;&nbsp;
   <img alt="dbt" height="26" width="26" src="static/dbt.png">&nbsp;&nbsp;
-  <img alt="Terraform" height="33" width="33" src="static/terraform.png">
-  <img alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img alt="PostgreSQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;
+  <img alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="Delta" height="30" width="26" src="static/delta.png">&nbsp;&nbsp;
+  <img alt="AWS" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;
+  <img alt="Docker" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">&nbsp;
+  <img alt="Terraform" height="31" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">&nbsp;
+  <img alt="Git" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+          
 </div>
